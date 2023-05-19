@@ -1,0 +1,2178 @@
+{
+  "Tour_Name": "享趣西班牙～佛朗明哥風情、普拉多美術館、聖家堂月之堡、米其林推薦餐廳11日",
+  "Picture": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/Itinerary/00210313/00210313-Main.JPG",
+  "Promotion": {
+    "barTitle": "優惠詳情",
+    "PromotionTitle": "",
+    "PromotionText": "享趣西班牙11天"
+  },
+  "Tour_Code": "ESD062911TK3",
+  "Tour_Date": "2023/06/29",
+  "Advantage_List": [
+    "含稅",
+    "含導覽耳機",
+    "無自費",
+    "贈多項好禮"
+  ],
+  "Selling_Point": "兩點進出，不走回頭路：馬德里進、巴塞隆納出\n",
+  "Retail_Price": "55,300",
+  "Sales_Text": "售價明細",
+  "BankInfo": null,
+  "Itinerary_Info": {
+    "Sight_Count": 41,
+    "CulturalHeritage": 10,
+    "Itinerary_Text": "行程概要",
+    "Itinerary_Info_list": [
+      {
+        "Sight_Title": "D1",
+        "SightInfoList": [
+          {
+            "Sight_Name": "桃園／伊斯坦堡 (約12小時)",
+            "CulturalHeritage_Mark": false
+          }
+        ]
+      },
+      {
+        "Sight_Title": "D2",
+        "SightInfoList": [
+          {
+            "Sight_Name": "伊斯坦堡／馬德里",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "馬德里",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "普拉多美術館",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "哥倫布廣場",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "太陽門廣場",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "西班牙皇宮",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "Tapas風味餐",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "馬德里Madrid",
+            "CulturalHeritage_Mark": false
+          }
+        ]
+      },
+      {
+        "Sight_Title": "D3",
+        "SightInfoList": [
+          {
+            "Sight_Name": "馬德里Madrid",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "塞哥維亞",
+            "CulturalHeritage_Mark": true
+          },
+          {
+            "Sight_Name": "塞哥維亞大教堂",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "羅馬水道橋",
+            "CulturalHeritage_Mark": true
+          },
+          {
+            "Sight_Name": "百年餐廳",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "托雷多",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "托雷多大教堂",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "阿卡薩城堡",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "托雷多觀景平台",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "托雷多Toledo",
+            "CulturalHeritage_Mark": false
+          }
+        ]
+      },
+      {
+        "Sight_Title": "D4",
+        "SightInfoList": [
+          {
+            "Sight_Name": "托雷多Toledo",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "白色風車村",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "唐吉軻德小酒館",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "哥多華",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "清真寺",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "哥多華舊城區",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "哥多華Cordoba",
+            "CulturalHeritage_Mark": false
+          }
+        ]
+      },
+      {
+        "Sight_Title": "D5",
+        "SightInfoList": [
+          {
+            "Sight_Name": "哥多華",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "塞維亞",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "塞維亞大教堂",
+            "CulturalHeritage_Mark": true
+          },
+          {
+            "Sight_Name": "西班牙廣場",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "聖十字猶太區",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "黃金塔",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "格拉那達Granada",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "佛朗明哥舞表演",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "格拉那達Granada",
+            "CulturalHeritage_Mark": false
+          }
+        ]
+      },
+      {
+        "Sight_Title": "D6",
+        "SightInfoList": [
+          {
+            "Sight_Name": "格拉納達",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "阿罕布拉宮",
+            "CulturalHeritage_Mark": true
+          },
+          {
+            "Sight_Name": "阿利坎特",
+            "CulturalHeritage_Mark": false
+          }
+        ]
+      },
+      {
+        "Sight_Title": "D7",
+        "SightInfoList": [
+          {
+            "Sight_Name": "阿利坎特",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "瓦倫西亞",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "絲綢交易中心",
+            "CulturalHeritage_Mark": true
+          },
+          {
+            "Sight_Name": "中央市場",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "科學藝術城",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "佩尼斯科拉",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "月之堡",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "塔拉哥納",
+            "CulturalHeritage_Mark": false
+          }
+        ]
+      },
+      {
+        "Sight_Title": "D8",
+        "SightInfoList": [
+          {
+            "Sight_Name": "塔拉哥納",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "羅馬競技場",
+            "CulturalHeritage_Mark": true
+          },
+          {
+            "Sight_Name": "鋸齒山 Montserrat",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "夢瑟拉修道院",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "巴塞隆納",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "蘭布拉斯大道",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "聖約瑟市場",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "巴塞隆納Barcelona",
+            "CulturalHeritage_Mark": false
+          }
+        ]
+      },
+      {
+        "Sight_Title": "D9",
+        "SightInfoList": [
+          {
+            "Sight_Name": "巴塞隆納",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "奎爾公園",
+            "CulturalHeritage_Mark": true
+          },
+          {
+            "Sight_Name": "聖家堂",
+            "CulturalHeritage_Mark": true
+          },
+          {
+            "Sight_Name": "巴特婁之家",
+            "CulturalHeritage_Mark": true
+          },
+          {
+            "Sight_Name": "米拉之家",
+            "CulturalHeritage_Mark": true
+          },
+          {
+            "Sight_Name": "英國宮百貨購物趣",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "巴塞隆納",
+            "CulturalHeritage_Mark": false
+          }
+        ]
+      },
+      {
+        "Sight_Title": "D10",
+        "SightInfoList": [
+          {
+            "Sight_Name": "巴塞隆納",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "蒙特惠克山丘",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "1992年奧運會場",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "Sight_Name": "巴塞隆納／伊斯坦堡",
+            "CulturalHeritage_Mark": false
+          }
+        ]
+      },
+      {
+        "Sight_Title": "D11",
+        "SightInfoList": [
+          {
+            "Sight_Name": "伊斯坦堡／桃園",
+            "CulturalHeritage_Mark": false
+          }
+        ]
+      }
+    ]
+  },
+  "Hotel_Price_Mark": false,
+  "Tour_Goday": {
+    "Tour_Goday_Title": "選擇出發日期",
+    "Tour_Goday_Remark": "只顯示可報名",
+    "TourMonthList": [
+      {
+        "Month": "5月",
+        "Tour_Goday_list": []
+      },
+      {
+        "Month": "6月",
+        "Tour_Goday_list": [
+          {
+            "Tour_Date": "2023/06/29",
+            "Tour_Code": "ESD062911TK3",
+            "Date": "06/29 四",
+            "Retail_Price": "100,900",
+            "Available_Pax": "可售6",
+            "SignUp_Mark": true
+          }
+        ]
+      },
+      {
+        "Month": "7月",
+        "Tour_Goday_list": [
+          {
+            "Tour_Date": "2023/07/13",
+            "Tour_Code": "ESD071311TK3",
+            "Date": "07/13 四",
+            "Retail_Price": "100,900",
+            "Available_Pax": "可售30",
+            "SignUp_Mark": true
+          },
+          {
+            "Tour_Date": "2023/07/20",
+            "Tour_Code": "ESD072011TK3",
+            "Date": "07/20 四",
+            "Retail_Price": "100,900",
+            "Available_Pax": "可售8",
+            "SignUp_Mark": true
+          }
+        ]
+      },
+      {
+        "Month": "8月",
+        "Tour_Goday_list": [
+          {
+            "Tour_Date": "2023/08/17",
+            "Tour_Code": "ESD081711TK3",
+            "Date": "08/17 四",
+            "Retail_Price": "100,900",
+            "Available_Pax": "可售8",
+            "SignUp_Mark": true
+          },
+          {
+            "Tour_Date": "2023/08/31",
+            "Tour_Code": "ESD083111TK3",
+            "Date": "08/31 四",
+            "Retail_Price": "98,900",
+            "Available_Pax": "可售15",
+            "SignUp_Mark": true
+          }
+        ]
+      },
+      {
+        "Month": "9月",
+        "Tour_Goday_list": [
+          {
+            "Tour_Date": "2023/09/14",
+            "Tour_Code": "ESD091411TK3",
+            "Date": "09/14 四",
+            "Retail_Price": "98,900",
+            "Available_Pax": "可售18",
+            "SignUp_Mark": true
+          },
+          {
+            "Tour_Date": "2023/09/21",
+            "Tour_Code": "ESD092111TK3",
+            "Date": "09/21 四",
+            "Retail_Price": "98,900",
+            "Available_Pax": "可售11",
+            "SignUp_Mark": true
+          }
+        ]
+      }
+    ],
+    "Tour_Calendar": {
+      "Tour_Calendar_StartDate": "2023/05/25",
+      "Tour_Calendar_EndDate": "2023/09/21",
+      "Tour_Calendar_list": [
+        {
+          "Tour_Calendar_Tour_Code": "ESD062911TK3",
+          "Tour_Calendar_Tour_Date": "2023/06/22",
+          "Tour_Calendar_icon": {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/group_sale_white.png",
+            "iconText": null
+          },
+          "Retail_Price": "100,900",
+          "text": "可售6人，確定",
+          "Remark": null,
+          "SignUp_Mark": false
+        },
+        {
+          "Tour_Calendar_Tour_Code": "ESD071311TK3",
+          "Tour_Calendar_Tour_Date": "2023/07/13",
+          "Tour_Calendar_icon": {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/group_sale_white.png",
+            "iconText": null
+          },
+          "Retail_Price": "100,900",
+          "text": "可售30人，確定",
+          "Remark": null,
+          "SignUp_Mark": false
+        },
+        {
+          "Tour_Calendar_Tour_Code": "ESD072011TK3",
+          "Tour_Calendar_Tour_Date": "2023/07/13",
+          "Tour_Calendar_icon": {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/group_sale_white.png",
+            "iconText": null
+          },
+          "Retail_Price": "100,900",
+          "text": "可售8人，確定",
+          "Remark": null,
+          "SignUp_Mark": false
+        },
+        {
+          "Tour_Calendar_Tour_Code": "ESD081711TK3",
+          "Tour_Calendar_Tour_Date": "2023/08/17",
+          "Tour_Calendar_icon": {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/group_sale_white.png",
+            "iconText": null
+          },
+          "Retail_Price": "100,900",
+          "text": "可售8人，確定",
+          "Remark": null,
+          "SignUp_Mark": false
+        },
+        {
+          "Tour_Calendar_Tour_Code": "ESD083111TK3",
+          "Tour_Calendar_Tour_Date": "2023/08/17",
+          "Tour_Calendar_icon": {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/group_sale_white.png",
+            "iconText": null
+          },
+          "Retail_Price": "98,900",
+          "text": "可售15人，確定",
+          "Remark": null,
+          "SignUp_Mark": false
+        },
+        {
+          "Tour_Calendar_Tour_Code": "ESD091411TK3",
+          "Tour_Calendar_Tour_Date": "2023/09/14",
+          "Tour_Calendar_icon": {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/group_sale_white.png",
+            "iconText": null
+          },
+          "Retail_Price": "98,900",
+          "text": "可售18人，確定",
+          "Remark": null,
+          "SignUp_Mark": false
+        },
+        {
+          "Tour_Calendar_Tour_Code": "ESD092111TK3",
+          "Tour_Calendar_Tour_Date": "2023/09/14",
+          "Tour_Calendar_icon": {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/group_sale_white.png",
+            "iconText": null
+          },
+          "Retail_Price": "98,900",
+          "text": "可售11人，確定",
+          "Remark": null,
+          "SignUp_Mark": false
+        }
+      ]
+    }
+  },
+  "Flight_Info": {
+    "tabTitle": "航班時間",
+    "Remark": " 此為本行程預定的航班時間，實際航班以團體確認的航班編號與飛行時間為準。"
+  },
+  "RouteContent": {
+    "tabTitle": "行程特色",
+    "RouteContent_List": [
+      {
+        "RouteContent_title": "注意事項",
+        "subTitle": "",
+        "RouteContent_contentList": [
+          {
+            "Advantage_List": [],
+            "content": "<ul>\r\n\t<li>相關防疫規範依出發當日至回程當日旅遊地區當地與本國政府之最新入出境防疫規範為主。</li>\r\n\t<li>2023年西班牙許多著名景點皆採取<span style=\"color:#FC4C02\">實名制</span>，且需攜帶<span style=\"color:#FC4C02\">護照正本至現場驗證</span>，為避免護照資料不全或有誤造成門票無效、無法入內參觀，請報名後時，<span style=\"color:#FC4C02\">隨即提供參團回國日起6個月以上的有效護照資料</span>。<br />\r\n\t備註：門票一經訂出，無法更改，更改視同取消，需收取100%的取消費。</li>\r\n</ul>"
+          }
+        ],
+        "RouteContent_imageList": [
+          {
+            "RouteContent_imageUrl": "",
+            "RouteContent_imageText": ""
+          }
+        ]
+      },
+      {
+        "RouteContent_title": "行程路線",
+        "subTitle": "",
+        "RouteContent_contentList": [
+          {
+            "Advantage_List": [],
+            "content": "<p>地圖僅提供路線示意參考，並未依照比例繪製，請見諒。</p>"
+          }
+        ],
+        "RouteContent_imageList": [
+          {
+            "RouteContent_imageUrl": "",
+            "RouteContent_imageText": ""
+          }
+        ]
+      },
+      {
+        "RouteContent_title": null,
+        "subTitle": null,
+        "RouteContent_contentList": null,
+        "RouteContent_imageList": null
+      },
+      {
+        "RouteContent_title": "土耳其航空－雙點進出 馬德里進、巴塞隆納出",
+        "subTitle": "",
+        "RouteContent_contentList": [
+          {
+            "Advantage_List": [],
+            "content": "<ol>\r\n\t<li><span style=\"color:#005EB8\">雙點進出：</span>馬德里進、巴塞隆納出，不走回頭路，讓你玩得最輕鬆</li>\r\n\t<li><span style=\"color:#005EB8\">獲獎連連的土耳其航空：</span><br />\r\n\t★2022年獲得譽為<span style=\"color:#FC4C02\">航空業的奧斯卡獎《全球最佳航空公司》</span>前10名<br />\r\n\t★2022年<span style=\"color:#FC4C02\">《歐洲最佳航空公司》</span><br />\r\n\t★連續七年榮獲<span style=\"color:#FC4C02\">《南歐最佳航空公司》</span><br />\r\n\t★曾獲得<span style=\"color:#FC4C02\">《最佳經濟艙餐飲獎》</span>、<span style=\"color:#FC4C02\">《最佳商務艙餐飲獎》</span>和<span style=\"color:#FC4C02\">《最佳商務艙貴賓室用餐獎》</span></li>\r\n\t<li>\r\n\t<p><span style=\"color:#005EB8\">《星空聯盟成員之一》：</span>是規模最大、歷史最悠久的國際性航空聯盟，成員航班、飛抵的國家均領先全球水準，累計里程和積點方便多元，為您提供遍及全球的航空旅行體驗!</p>\r\n\t</li>\r\n</ol>"
+          }
+        ],
+        "RouteContent_imageList": [
+          {
+            "RouteContent_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00060108.JPG",
+            "RouteContent_imageText": ""
+          },
+          {
+            "RouteContent_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00103447.JPG",
+            "RouteContent_imageText": ""
+          }
+        ]
+      },
+      {
+        "RouteContent_title": null,
+        "subTitle": null,
+        "RouteContent_contentList": null,
+        "RouteContent_imageList": null
+      },
+      {
+        "RouteContent_title": "世界第三多世界文化遺產國家－西班牙",
+        "subTitle": "",
+        "RouteContent_contentList": [
+          {
+            "Advantage_List": [],
+            "content": "<ol>\r\n\t<li><span style=\"color:#005EB8\">塞哥維亞</span>：羅馬水道橋，全長728公尺，整個伊比利半島保存最壯觀最完整的古羅馬遺跡之一。</li>\r\n\t<li><span style=\"color:#005EB8\">托雷多舊城區</span>：西班牙歷史縮影，護城河、矮矮的城牆、古老的石板路，小巧而迷人。</li>\r\n\t<li><span style=\"color:#005EB8\">哥多華舊城區</span>：粉白色房屋，襯托著美麗盆景所裝飾的窗櫺、中庭，流露出獨有安塔露西亞風情。</li>\r\n\t<li><span style=\"color:#005EB8\">塞維亞大教堂</span><span style=\"color:#FC4C02\">(入內參觀)</span>：世界第三，僅次於羅馬聖彼得大教堂、倫敦聖保羅教堂。</li>\r\n\t<li><span style=\"color:#005EB8\">阿罕布拉宮</span><span style=\"color:#FC4C02\">(入內參觀)</span>：於美麗絕倫的回教宮殿及清澈溪水環繞的阿拉伯式軒內洛尼菲庭園，令人流連忘返。</li>\r\n\t<li><span style=\"color:#005EB8\">聖家堂</span><span style=\"color:#FC4C02\">(入內參觀)</span>：動工百餘年現未完成的天才建築家高第的代表作，以完美而協調的手法呈現，令人印象相當深刻。</li>\r\n\t<li><span style=\"color:#005EB8\">奎爾公園</span><span style=\"color:#FC4C02\">(入內參觀)</span>：這是高第大師名作中最容易讓人親近的，糖果屋及色彩斑斕的大蜥蜴，曲線造型的馬賽克座椅，大膽的巧思令人喜愛。</li>\r\n</ol>"
+          }
+        ],
+        "RouteContent_imageList": [
+          {
+            "RouteContent_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058692.JPG",
+            "RouteContent_imageText": ""
+          },
+          {
+            "RouteContent_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058657.JPG",
+            "RouteContent_imageText": ""
+          },
+          {
+            "RouteContent_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058633.JPG",
+            "RouteContent_imageText": ""
+          }
+        ]
+      },
+      {
+        "RouteContent_title": "獨特雙摩爾式壯麗建築",
+        "subTitle": "",
+        "RouteContent_contentList": [
+          {
+            "Advantage_List": [],
+            "content": "<p>摩爾人於711年開始統治西班牙，統治近800年的時間，在10世紀時，國力達到鼎盛，其國力展現在其獨得的摩爾式建築中</p>\r\n\r\n<ol>\r\n\t<li><span style=\"color:#FC4C02\"><span style=\"color:#005EB8\">哥多華《清真寺》</span>入內參觀</span>：摩爾人建築中完成度最高、最傑出的作品之一，亦為目前<span style=\"color:#FC4C02\">世界第二大之清真寺</span>，歷史的演變使清真寺混合基督教及回教之建築風格，外部19扇門面顯現其壯闊氣勢，而內部由850根瑪瑙碧玉般的大理石圓柱裝飾而成，繁複的拱門，走入其中則讓人有進入迷宮的感覺。<br />\r\n\t&nbsp;</li>\r\n\t<li><span style=\"color:#005EB8\">格拉納達《阿罕布拉宮》<span style=\"color:#FC4C02\">入內參觀</span></span>：摩爾人在<span style=\"color:#FC4C02\">「黃金時代」</span>所遺留下之產物，精緻細膩的建築、清新脫俗的格調，驚世之美令人讚賞；於此拜訪文藝復興式建築的查理五世皇宮、極俱藝術價值的王宮區，美麗絕倫的回教宮殿及清澈溪水環繞的阿拉伯式格內拉利費宮庭花園，令人流連忘返。<br />\r\n\t<br />\r\n\t<span style=\"color:#FC4C02\">★阿罕布拉宮(2020年5月1日開始的新規定)，預訂門票的同時要提供完整的旅客名單(含護照號碼)，且一但預訂完成，取消則收取100% 取消費用。</span><br />\r\n\t<span style=\"color:#FC4C02\">★阿罕布拉宮更新團體預訂規則，嚴格把關每日進場人數及開放購票時間。若遇當天預約已滿、無法接受預訂，則改安排參觀【格拉納達皇室禮拜堂】或【阿爾罕布拉皇宮花園】，不便之處懇請貴賓諒解。</span></li>\r\n</ol>"
+          }
+        ],
+        "RouteContent_imageList": [
+          {
+            "RouteContent_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058669.JPG",
+            "RouteContent_imageText": ""
+          },
+          {
+            "RouteContent_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058672.JPG",
+            "RouteContent_imageText": ""
+          },
+          {
+            "RouteContent_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058679.JPG",
+            "RouteContent_imageText": ""
+          },
+          {
+            "RouteContent_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058666.JPG",
+            "RouteContent_imageText": ""
+          },
+          {
+            "RouteContent_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058664.JPG",
+            "RouteContent_imageText": ""
+          }
+        ]
+      },
+      {
+        "RouteContent_title": "《國家地理雜誌》評選50個人生必遊景點－巴塞隆納",
+        "subTitle": "",
+        "RouteContent_contentList": [
+          {
+            "Advantage_List": [],
+            "content": "<p>這個擁有1000年以上歷史的城市，評選世界第一的旅遊城市、高第建築藝術重鎮。畢卡索、米羅、高第等大師都在這裡嶄露頭角，是個名副其實的藝術之都。</p>\r\n\r\n<ul>\r\n\t<li><span style=\"color:#005EB8\">聖家堂<span style=\"color:#FC4C02\">(入內參觀)</span>：</span>西班牙天才建築家─高第的代表作；教堂共有三座宏偉的立面，東、西、南面各具特色，距今已動工百餘年尚未完工卻已被列為世界文化遺產的奇蹟建築。</li>\r\n\t<li><span style=\"color:#005EB8\">奎爾公園<span style=\"color:#FC4C02\">(入內參觀)</span>：</span>高第大師名作中最容易讓人親近的，利用原本的山坡地形，搭配蘑菇、糖果屋及色彩斑斕的大蜥蜴，曲線造型的馬賽克座椅，大膽的巧思令人喜愛。</li>\r\n\t<li><span style=\"color:#005EB8\">巴特婁之家：</span>高第最知名的豪宅作品之一，外牆上用了彩色玻璃和圓形陶瓷片裝飾，而窗台像似舞會的面具的圍欄，更是巴特婁之家立面最突出的地方</li>\r\n\t<li><span style=\"color:#005EB8\">米拉之家：</span>高第最後設計的私人住宅，白色石切的外牆呈現波浪形。屋頂上頭有許多造型奇特的煙囪與塔，宛如走進太空世界般奇幻</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>"
+          }
+        ],
+        "RouteContent_imageList": [
+          {
+            "RouteContent_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058641.JPG",
+            "RouteContent_imageText": "聖家堂"
+          },
+          {
+            "RouteContent_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058642.JPG",
+            "RouteContent_imageText": "奎爾公園"
+          },
+          {
+            "RouteContent_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058656.JPG",
+            "RouteContent_imageText": "巴特婁之家"
+          },
+          {
+            "RouteContent_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077689.JPG",
+            "RouteContent_imageText": "蘭布拉斯大道"
+          }
+        ]
+      },
+      {
+        "RouteContent_title": "馬德里",
+        "subTitle": "",
+        "RouteContent_contentList": [
+          {
+            "Advantage_List": [],
+            "content": "<p>西班牙首都也是西班牙最大城市，更是西班牙旅遊人數最多的地方。</p>\r\n\r\n<ul>\r\n\t<li><span style=\"color:#005EB8\">普拉多美術館<span style=\"color:#FC4C02\">(入內參觀)</span></span>：繼承了皇室珍藏，在19世紀末期就被譽為《世界四大美術館》之一。幾乎囊括了哥雅的全部精品，還有埃爾柯雷哥、委拉斯蓋茲等巨匠之作盡收眼底。</li>\r\n\t<li><span style=\"color:#005EB8\">馬德里皇宮:</span>近400年作為西班牙國王的居所，現為西班牙國事活動的舉辦地點；平常則是以博物館形式對外開放。建築外觀融合新古典主義及文藝復興風格，極具特色。</li>\r\n\t<li><span style=\"color:#005EB8\">哥倫布廣場：</span>原是當作恭賀西班牙王室貴族結婚的贈禮，1893年為了慶祝哥倫布發現新大陸400周年，王室轉交給馬德里市政府，並更名為哥倫布廣場。</li>\r\n</ul>"
+          }
+        ],
+        "RouteContent_imageList": [
+          {
+            "RouteContent_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077010.JPG",
+            "RouteContent_imageText": "普拉多美術"
+          },
+          {
+            "RouteContent_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00076962.JPG",
+            "RouteContent_imageText": "馬德里皇宮"
+          },
+          {
+            "RouteContent_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077691.JPG",
+            "RouteContent_imageText": "太陽門廣場"
+          },
+          {
+            "RouteContent_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00078292.JPG",
+            "RouteContent_imageText": ""
+          },
+          {
+            "RouteContent_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077650.JPG",
+            "RouteContent_imageText": "哥倫布廣場"
+          }
+        ]
+      },
+      {
+        "RouteContent_title": "西班牙女王加冕之地－塞哥維亞 Segovia",
+        "subTitle": "",
+        "RouteContent_contentList": [
+          {
+            "Advantage_List": [],
+            "content": "<p>名字在古語擁有<span style=\"color:#FC4C02\">《勝利之城》</span>的涵義，為<span style=\"color:#005EB8\">西班牙女王伊莎貝爾一世加冕之地</span>。老城區雄踞於山岩上，有著大量的古蹟建築，漫步於寧謐街道上，不禁令人緬懷昔日被羅馬人統治時的繁華盛景。</p>\r\n\r\n<ul>\r\n\t<li><span style=\"color:#005EB8\">古羅馬水道橋：</span>長28公尺，高29公尺和165個拱門的羅馬水道橋，全長813公尺，是整個伊比利半島保存最壯觀最完整的古羅馬遺跡之一</li>\r\n\t<li><span style=\"color:#005EB8\">塞哥維亞大教堂<span style=\"color:#FC4C02\">(入內)</span>：</span>耗時近200多年才完工，是西班牙最晚落成的哥德式大教堂，是晚期哥德式教堂的經典之作。塔樓高達88米，是西班牙最高的塔樓。</li>\r\n</ul>"
+          }
+        ],
+        "RouteContent_imageList": [
+          {
+            "RouteContent_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058692.JPG",
+            "RouteContent_imageText": ""
+          },
+          {
+            "RouteContent_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00078046.JPG",
+            "RouteContent_imageText": "塞哥維亞"
+          },
+          {
+            "RouteContent_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058686.JPG",
+            "RouteContent_imageText": ""
+          },
+          {
+            "RouteContent_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00078046.JPG",
+            "RouteContent_imageText": "塞哥維亞"
+          }
+        ]
+      },
+      {
+        "RouteContent_title": null,
+        "subTitle": null,
+        "RouteContent_contentList": null,
+        "RouteContent_imageList": null
+      },
+      {
+        "RouteContent_title": "西班牙道地美食",
+        "subTitle": "",
+        "RouteContent_contentList": [
+          {
+            "Advantage_List": [],
+            "content": "<ol>\r\n\t<li><span style=\"color:#005EB8\">馬德里</span>－<span style=\"color:#005EB8\">TAPAS風味餐：</span>來吧！這就是西班牙人的享受人生：說起馬德里的小酒館，在14世紀在主廣場和維拉廣場之間就有50多家的酒館，在之後的兩百多年間數量更是增加到800多家，然而在19世紀初期時酒館逐漸轉型為較為典雅，至今存留下的酒館僅餘百家。來這類受年輕人青睞的酒館最大的特色在於每家店的外觀與室內都上有非常漂亮的瓷磚，尤其是內部的瓷磚皆繪有具西班牙特色的圖案，既古典又時髦。</li>\r\n\t<li>\r\n\t<p><span style=\"color:#005EB8\">塞哥維亞－香烤乳豬風味餐</span>：西班牙的烤乳豬是因為國王下詔全國大廚而研發出來的美食，能做為烤乳豬的豬隻必須經過精挑細選，重量3～4公斤，未滿二星期的小豬仔，經過幾小時的精心烹調。廚師會推出他們烤熟的招牌全乳豬，接著拿出一個盤子，俐落地用盤子邊緣，把整隻烤乳豬分切成數份，最後手一拋，盤子從空中落地砸個粉碎，讓客人同時擁有視覺、聽覺及味蕾的享受。</p>\r\n\t</li>\r\n</ol>"
+          }
+        ],
+        "RouteContent_imageList": [
+          {
+            "RouteContent_imageUrl": "",
+            "RouteContent_imageText": ""
+          }
+        ]
+      },
+      {
+        "RouteContent_title": "佛朗明哥劇場(佛朗明哥舞+晚餐)",
+        "subTitle": "",
+        "RouteContent_contentList": [
+          {
+            "Advantage_List": [],
+            "content": "<p>欣賞西班牙最傳統的佛朗明哥舞表演，讓您親自感受舞者們動人的嫵媚風情。貼心安排於劇場內享用晚餐，一是節省從旅館到餐廳，再從餐廳到劇場，趕場奔波之苦；二是一般僅看秀而不用餐的貴賓座位皆安排於前面幾排，非常的接近舞者；想要一覽排場壯大的舞曲，非得坐在中後半部，因座位處於視野較佳處，歐美日本團皆是如此安排。</p>\r\n\r\n<ul>\r\n</ul>"
+          }
+        ],
+        "RouteContent_imageList": [
+          {
+            "RouteContent_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00062267.JPG",
+            "RouteContent_imageText": ""
+          }
+        ]
+      },
+      {
+        "RouteContent_title": "規格說明",
+        "subTitle": "",
+        "RouteContent_contentList": [
+          {
+            "Advantage_List": [
+              "含導覽耳機"
+            ],
+            "content": "<ol>\r\n\t<li>全程導覽耳機每人一副、保證使用全新耳塞式耳機，不重覆使用，無衛生的疑慮；行程結束後，您可帶回家繼續使用。</li>\r\n\t<li>耳機主機體及隨身收納袋請於返國時交還給導遊人員。</li>\r\n\t<li>如有遺失之狀況，需賠償每台機器費用NT2000元。</li>\r\n</ol>"
+          },
+          {
+            "Advantage_List": [
+              "贈多項好禮"
+            ],
+            "content": "<ol>\r\n\t<li>行李束帶每人一條(恕不挑色)。</li>\r\n\t<li>轉接插頭每人一個(視旅遊目的地贈送雙孔/三孔插頭)。</li>\r\n</ol>"
+          }
+        ],
+        "RouteContent_imageList": [
+          {
+            "RouteContent_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00108305.JPG",
+            "RouteContent_imageText": ""
+          },
+          {
+            "RouteContent_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00107832.JPG",
+            "RouteContent_imageText": ""
+          }
+        ]
+      }
+    ]
+  },
+  "DayRoute": {
+    "DayRouteTip": "此處行程順序，是依我們的經驗值所做出的理想安排，但若於旅途中遇特殊情況，為顧及行程順暢度，順序可能稍作更改。",
+    "tabTitle": "每日安排",
+    "markIcon": [
+      {
+        "Icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-point.png",
+        "text": "入內參觀"
+      },
+      {
+        "Icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-pic.png",
+        "text": "下車拍照"
+      },
+      {
+        "Icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-car.png",
+        "text": "行車經過"
+      }
+    ],
+    "Sight_Text": "全部景點介紹",
+    "Sight": {
+      "Sight_Title": "景點介紹",
+      "Sight_List": [
+        {
+          "tabTitle": "第1天",
+          "Day_No": "D1",
+          "SightContentsList": [
+            {
+              "Sight_Name": "桃園／伊斯坦堡 (約12小時)",
+              "Sight_Content": "<p>今日集合於桃園國際機場，搭乘豪華客機飛往西班牙首都～馬德里。遊馬德里見證西班牙歷史，聽安塔露西亞三大名城之文化交萃，賞巴塞隆納之建築聖地，西班牙圓舞曲，每日獻給您不同的西班牙樂章。<br />\r\n&nbsp;</p>\r\n\r\n<p><span style=\"color:#005EB8\">【貼心提醒】</span></p>\r\n\r\n<ul>\r\n\t<li>由於航程關係，須於飛機上過夜，請各位旅客，務必自行準備可以保暖的外套，以備不時之須。</li>\r\n\t<li>出發前，請來公司開說明會，我們的領隊將為您講解說明行前的注意事項。</li>\r\n\t<li>飛機上空間較小，建議您穿著舒適寬鬆的衣物，以及一雙舒適的鞋子。</li>\r\n</ul>\r\n\r\n<ul>\r\n</ul><p>&nbsp;</p>\r\n\r\n<ul>\r\n</ul>",
+              "Sight_imageUrl": null,
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": null
+            }
+          ]
+        },
+        {
+          "tabTitle": "第2天",
+          "Day_No": "D2",
+          "SightContentsList": [
+            {
+              "Sight_Name": "伊斯坦堡／馬德里(約4小時25分鐘)",
+              "Sight_Content": "<p>班機中午抵達馬德里，抵達後，全日遊覽西班牙首都風光：富麗堂皇的西班牙皇宮，外觀融合新古典主義及文藝復興風格，令人不禁發出驚嘆之聲！</p>",
+              "Sight_imageUrl": null,
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": null
+            },
+            {
+              "Sight_Name": "馬德里Madrid",
+              "Sight_Content": "<p>坐落於西班牙的中部，是西班牙的首都及最大都市。因為曾經是摩爾人的回教中心，而以阿拉伯文命名的城市馬德里，原本是默默無名的小鎮，直到西元1561年，菲力普二世將此地訂為西班牙首都。由於在政治、教育、娛樂、環境、大眾媒體、時裝、科學、文化和藝術所占據的重要地位，馬德里被列為國際大都市之一。也是西班牙旅遊人數最多的城市，雖然它擁有現代化的基礎設施，但它仍完好地保留了許多歷史建築。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00078292.JPG",
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": "馬德里Madrid"
+            },
+            {
+              "Sight_Name": "普拉多美術館Prado Museum",
+              "Sight_Content": "<p>普拉多和巴黎羅浮宮、倫敦大英博物館並列世界三大博物館，擁有全世界最完整的西班牙藝術作品，這裡不僅是西班牙最負盛名的美術館，同時也是世界級的藝術殿堂，早期三大藝術家委內斯蓋茲、哥雅、葛雷科的佳作盡收眼裡。收藏有從14世紀到19世紀來自全歐洲的繪畫、雕塑和各類工藝品，還幾乎囊括了哥雅的全部精品。此外還有眾多西班牙本土畫家的代表作在這裡集中展示，是當地最受歡迎的景點之一。</p><ul>\r\n\t<li><span style=\"color:#FC4C02\">若遇普拉多美術館臨時性休館或調整開放時間，將以西班牙三大美術館之一的蘇菲亞美術館替代，蘇菲亞美術館內部大多展示近代畫作，從畢卡索、達利、米羅、到近代裝飾藝術通通都有。</span></li>\r\n</ul>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077010.JPG",
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": "普拉多美術館Prado Museum"
+            },
+            {
+              "Sight_Name": "哥倫布廣場Colón Plaza",
+              "Sight_Content": "<p>地處馬德里的卡斯蒂利亞大街中央，初名：聖雅各廣場，原是當作恭賀西班牙王室貴族結婚的贈禮，1893年為了慶祝哥倫布發現新大陸400周年，王室轉交給馬德里市政府，並更名為哥倫布廣場。</p>\r\n\r\n<p>廣場上矗立著一座高17公尺的白色紀念碑，上頭哥德式的哥倫布塑像，出自著名雕塑師梅利達之手，獨具匠心地將面朝西方，意謂著新大陸之方向；手持資助他出航的卡斯提爾王國之旗幟，右腳旁是地球儀；正下方的方形底座擁有精美的浮雕，其內容為當初哥倫布發現新大陸的相關事蹟。</p>",
+              "Sight_imageUrl": null,
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": null
+            },
+            {
+              "Sight_Name": "太陽門廣場Puerta del Sol",
+              "Sight_Content": "<p>廣場是馬德里中心點，而那塊象徵中心的磁磚─零公里0KM，就安放在舊郵政大廈前的人行道上；此外，廣場東側擁有一座「熊與石楠樹」銅像，它是市徽，也是重要地標的存在，許多遊客會在銅像前合影，以示來過馬德里。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077691.JPG",
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": "太陽門廣場Puerta del Sol"
+            },
+            {
+              "Sight_Name": "西班牙皇宮Royal Palace of Madrid",
+              "Sight_Content": "<p>建在曼薩萊斯河左岸的山崗上，原是摩爾人的軍事堡壘，近400年作為西班牙國王的居所，現為西班牙國事活動的舉辦地點；平常則是以博物館形式對外開放。因過去多位君主別具特色的偏好，造就建築外觀融合新古典主義及文藝復興風格。</p>\r\n\r\n<p>&nbsp;</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00076962.JPG",
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": "西班牙皇宮Royal Palace of Madrid"
+            },
+            {
+              "Sight_Name": "Tapas風味餐",
+              "Sight_Content": "<p>說起馬德里的小酒館，在14世紀在主廣場和維拉廣場之間就有50多家的酒館，在之後的兩百多年間數量更是增加到800多家，然而在19世紀初期時酒館逐漸轉型為較為典雅，至今存留下的酒館僅餘百家。來這類受年輕人青睞的酒館最大的特色在於每家店的外觀與室內都上有非常漂亮的瓷磚，尤其是內部的瓷磚皆繪有具西班牙特色的圖案，既古典又時髦。</p>",
+              "Sight_imageUrl": null,
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": null
+            }
+          ]
+        },
+        {
+          "tabTitle": "第3天",
+          "Day_No": "D3",
+          "SightContentsList": [
+            {
+              "Sight_Name": "塞哥維亞Segovia",
+              "Sight_Content": "<p>名字在古語擁有「勝利之城」的涵義，為西班牙女王伊莎貝爾一世加冕之地，老城區雄踞於山岩上，有著大量的古蹟建築，如古羅馬水道橋、塞哥維亞城堡和教堂，漫步於寧謐街道上，不禁令人緬懷昔日被羅馬人統治時的繁華盛景。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00078046.JPG",
+              "Sight_imageTopText": "世界遺產",
+              "Sight_imageBottomText": "塞哥維亞Segovia"
+            },
+            {
+              "Sight_Name": "塞哥維亞大教堂Segovia Cathedral",
+              "Sight_Content": "<p>大教堂始建於1525年，位在佛朗哥廣場旁的大教堂，耗時近200多年才完工，是西班牙最晚落成的哥德式大教堂，也是西班牙晚期哥德式教堂的經典之作。西班牙曆史上著名的伊莎貝拉女王就是在此登基的。它的塔樓高達88米，是西班牙最高的塔樓。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058686.JPG",
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": "塞哥維亞大教堂Segovia Cathedral"
+            },
+            {
+              "Sight_Name": "羅馬水道橋Aqueduct of Segovia",
+              "Sight_Content": "<p>西元2000年前，羅馬人以瓜達拉馬山上的花崗石堆砌而成，這座長28公尺，高29公尺和165個拱門的羅馬水道橋，全長813公尺，是整個伊比利半島保存最壯觀最完整的古羅馬遺跡之一，將古羅馬榮光展露無遺。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058690.JPG",
+              "Sight_imageTopText": "世界遺產",
+              "Sight_imageBottomText": "羅馬水道橋Aqueduct of Segovia"
+            },
+            {
+              "Sight_Name": "百年餐廳香烤乳豬風味餐",
+              "Sight_Content": "<p>西班牙的烤乳豬是因為國王下詔全國大廚而研發出來的美食，能做為烤乳豬的豬隻必須經過精挑細選，經過幾小時的精心烹調。廚師會推出他們烤熟的招牌全乳豬，接著拿出一個盤子，俐落地用盤子邊緣，把整隻烤乳豬分切成數份，最後手一拋，盤子從空中落地砸個粉碎，讓客人同時擁有視覺、聽覺及味蕾的享受。</p>",
+              "Sight_imageUrl": null,
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": null
+            },
+            {
+              "Sight_Name": "托雷多Toledo",
+              "Sight_Content": "<p>太加斯河環繞的中世紀古城，有著護城河、矮矮的城牆、古老的石板路，乃西班牙歷史縮影。從太加斯河畔遠眺城區美景，方形的舊皇宮有如托雷多的精神象徵，矗立在城區至高點，城中還維持中古世紀之古城風情。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058632.JPG",
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": "托雷多Toledo"
+            },
+            {
+              "Sight_Name": "托雷多大教堂Toledo Cathedral",
+              "Sight_Content": "<p>參觀費時300年才完工的托雷多大教堂，西班牙三大教堂之一，回教時期這裡轉變成清真寺，內部哥德式裝飾的主禮拜堂相當華麗，而混合各種建築形式的外觀，給人文化衝擊的不同感受。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077002.JPG",
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": "托雷多大教堂Toledo Cathedral"
+            },
+            {
+              "Sight_Name": "阿卡薩城堡Alcázar Castle",
+              "Sight_Content": "<p>位在托雷多古城的高點，早期為羅馬時代的裁判所，西元1936年西班牙內戰時曾收到戰火的波及，之後重新翻修整建成軍事博物館。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00078291.JPG",
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": "阿卡薩城堡Alcázar Castle"
+            },
+            {
+              "Sight_Name": "托雷多觀景平台",
+              "Sight_Content": "<p>在這你可以俯瞰被塔霍河所環繞的古城托雷多，可以看到完整的古城區，世界各地的觀光客，都在這裡留下與古城的回憶。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058632.JPG",
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": "托雷多觀景平台"
+            }
+          ]
+        },
+        {
+          "tabTitle": "第4天",
+          "Day_No": "D4",
+          "SightContentsList": [
+            {
+              "Sight_Name": "白色風車村Consuegra",
+              "Sight_Content": "<p>西班牙家喻戶曉名作《唐吉軻德》文中提及的場景，山丘上尚立數座白色的風車群，在一片無垠的平原排列展開，構成典型拉曼查地區的鄉村風景。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00059928.JPG",
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": "白色風車村Consuegra"
+            },
+            {
+              "Sight_Name": "哥多華Cordoba",
+              "Sight_Content": "<p>安塔露西亞地區古都之一，於8世紀中到11世紀初時，締造空前繁榮回教盛世，當時擁有超過300座的清真寺，之後天主教勢力壯大，又將此地奪回去，現今建築可以見證3個世紀以來，混合回教猶太教和天主教風格的藝術痕跡。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058662.JPG",
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": "哥多華Cordoba"
+            },
+            {
+              "Sight_Name": "清真寺Mosque–Cathedral of Córdoba",
+              "Sight_Content": "<p>該建築為世界遺產哥多華歷史中心的一部分，最早建於786年，名為聖文生聖殿（Bas&iacute;lica de San Vicente M&aacute;rtir）。1238年，收復失地運動後，將清真寺改為羅馬天主教的主教座堂。1523年，在穆斯林建築的中心，開始修建文藝復興風格的聖殿。是摩爾人建築中完成度最高、最傑出的作品之一。今天它是哥多華最重要的地標，亦為目前世界第二大之清真寺，歷史的演變使清真寺混合基督教及回教之建築風格，外部19扇門面顯現其壯闊氣勢，而內部由850根瑪瑙碧玉般的大理石圓柱裝飾而成，繁複的拱門，走入其中則讓人有進入迷宮的感覺。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00078043.JPG",
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": "清真寺Mosque–Cathedral of Córdoba"
+            },
+            {
+              "Sight_Name": "哥多華舊城區Cordoba Old Town",
+              "Sight_Content": "<p>位於清真寺後方的<span style=\"color:#005EB8\">猶太人街區、百花巷</span>，各具特色蜿蜒如迷宮般的小巷，有著粉白色房屋，巷旁的住戶把一盆盆顏色鮮豔的花朵，掛滿在白色牆上，流露出特有的安塔露西亞風情，處處是取景拍照的好地方，不少明信片上都可看到這個風景！</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00078041.JPG",
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": "哥多華舊城區Cordoba Old Town"
+            }
+          ]
+        },
+        {
+          "tabTitle": "第5天",
+          "Day_No": "D5",
+          "SightContentsList": [
+            {
+              "Sight_Name": "塞維亞Seville",
+              "Sight_Content": "<p>安塔露西亞首府，曾經是文學劇作家筆下大作&mdash;卡門的故事發生地，也是塞維亞的理髮師名作的故事所在地，更是著名電影阿拉伯的勞倫斯拍片現場的場景，親臨現場往事場景歷歷在目，塞維亞在1929年及1992年兩度舉辦過萬國博覽會，是一座因航海和貿易發展而形成的繁華城市。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058628.JPG",
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": "塞維亞Seville"
+            },
+            {
+              "Sight_Name": "塞維亞大教堂Seville Cathedral",
+              "Sight_Content": "<p>為世界第三大的教堂，僅次於羅馬聖彼得大教堂、倫敦聖保羅教堂。因適逢哥倫布發現新大陸之黃金時代，造就出不凡之建築雕刻與裝飾陳設，對後世航海影響深遠的哥倫布即是長眠於此。</p><ul>\r\n\t<li><span style=\"color:#FC4C02\">若遇當天預約已滿、宗教節日及週日彌撒日因而關門，則改安排參觀【塞維亞阿卡薩城堡】，不便之處懇請貴賓諒解。</span></li>\r\n</ul>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077001.JPG",
+              "Sight_imageTopText": "世界遺產",
+              "Sight_imageBottomText": "塞維亞大教堂Seville Cathedral"
+            },
+            {
+              "Sight_Name": "西班牙廣場Plaza de España",
+              "Sight_Content": "<p>西元1492年，航海家哥倫布，就是從這裏出發前往探險，而發現美洲新大陸，除了帶給王室無以數計的財富，也為人類歷史寫下新的一頁，今天我們的參觀就好像回顧歷史，亦如倘佯在文學及歷史古蹟的薰淘之中。當地市民的休憩場所，留有全國最大、也是當年為了舉辦萬國博覽會所建的主場地，兩旁有著古典的噴泉迴廊。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077306.JPG",
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": "西班牙廣場Plaza de España"
+            },
+            {
+              "Sight_Name": "聖十字猶太區Santa Cruz",
+              "Sight_Content": "<p>位於塞維亞市中心最古老的猶太區。1248年，斐迪南三世從穆斯林手中收復了安達盧斯最大的城市──塞維亞，他將塞維亞的猶太人集中居住於此，形成了如今的聖十字區，街道旁華美富麗的教堂、靜謐典雅的花園、白牆紅瓦的建築，與設計精緻的特色商店，充滿著濃濃的猶太色彩。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077647.JPG",
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": "聖十字猶太區Santa Cruz"
+            },
+            {
+              "Sight_Name": "黃金塔Golden Tower",
+              "Sight_Content": "<p>座落在瓜達幾維河東岸的軍事瞭望塔，最初是摩爾人築城遺留下的殘垣斷壁，一直到13世紀的穆瓦希德王朝為了控制河道水路才建塔，現今作為海軍博物館，裡頭展示了當年哥倫布發現新大陸的航船複製品、歷史檔案和畫像等。其命名有兩種說法，其一為地理大發現時代，從美洲掠奪來的金銀財寶遍藏於此處；其二是因其金色瓷磚倒影在水中之景，不論是哪一種說法，都為這座塔鋪上一層神秘的面紗。<br />\r\n&nbsp;</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077170.JPG",
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": "黃金塔Golden Tower"
+            },
+            {
+              "Sight_Name": "佛朗明哥舞表演(劇場內晚餐)",
+              "Sight_Content": "<p>欣賞西班牙最傳統的佛朗明哥舞表演，讓您親自感受舞者們動人的嫵媚風情；於劇場內安排享用晚餐，一來節省你從旅館至餐廳和用餐後再從餐廳至劇場趕場奔波之苦；二來一般僅看秀而不用餐之貴賓座位皆安排於前面幾排，非常的接近舞者；眾所皆知，想要一覽排場壯大的舞曲，非得坐在中後半部，因座位處於視野較佳處，歐美日本團皆是如此安排。</p>",
+              "Sight_imageUrl": null,
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": null
+            }
+          ]
+        },
+        {
+          "tabTitle": "第6天",
+          "Day_No": "D6",
+          "SightContentsList": [
+            {
+              "Sight_Name": "格拉納達Granada",
+              "Sight_Content": "<p>曾被阿拉伯人統治近千年，是西班牙境內接受回教統治最久的城市。擁有世上最美麗的阿拉伯式宮殿，充滿回教風情的阿爾拜辛區和白色薩克羅蒙特山丘，璀璨精緻的回教文化在此展露無遺，略帶憂鬱的精緻美感及絕代風華，譜出一首首令人詠嘆不絕的輓歌。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00078710.JPG",
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": "格拉納達Granada"
+            },
+            {
+              "Sight_Name": "阿罕布拉宮Alhambra",
+              "Sight_Content": "<p>建於13世紀的摩爾式碉堡，18世紀時淪為廢墟，是摩爾人在「黃金時代」所遺留下之產物，精緻細膩的建築、清新脫俗的格調，驚世之美令人讚賞；於此拜訪文藝復興式建築的查理五世皇宮、極俱藝術價值的王宮區，美麗絕倫的回教宮殿及清澈溪水環繞的阿拉伯式格內拉利費宮庭花園，令人流連忘返。</p><ul>\r\n\t<li><span style=\"color:#FC4C02\">阿罕布拉宮(2020年5月1日開始的新規定)，預訂門票的同時要提供完整的旅客名單(含護照號碼)，且一但預訂完成，取消則收取100% 取消費用。</span></li>\r\n\t<li><span style=\"color:#FC4C02\">阿罕布拉宮更新團體預訂規則，嚴格把關每日進場人數及開放購票時間。若遇當天預約已滿、無法接受預訂，則改安排參觀【格拉納達皇室禮拜堂】或【阿爾罕布拉皇宮花園】，不便之處懇請貴賓諒解。</span></li>\r\n</ul>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058672.JPG",
+              "Sight_imageTopText": "世界遺產",
+              "Sight_imageBottomText": "阿罕布拉宮Alhambra"
+            }
+          ]
+        },
+        {
+          "tabTitle": "第7天",
+          "Day_No": "D7",
+          "SightContentsList": [
+            {
+              "Sight_Name": "絲綢交易中心Llotja de la Seda",
+              "Sight_Content": "<p>西班牙第三大城的瓦倫西亞，擁有被聯合國教科文組織評列為「世界文化遺產」的絲綢交易中心。建築&nbsp;擁有哥德式建築的完美表徵，每道細節都呈現創意與實用的結合，是15世紀鼎盛的絲綢商貿所建，直到19世紀仍是絹布類的交易所&nbsp;。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00078038.JPG",
+              "Sight_imageTopText": "世界遺產",
+              "Sight_imageBottomText": "絲綢交易中心Llotja de la Seda"
+            },
+            {
+              "Sight_Name": "中央市場The Central Market of Valencia",
+              "Sight_Content": "<p>瓦倫西亞的中央市場，建於20世紀初，以現代主義風格下去設計，使用色彩豐富的磁磚及馬賽克打造而成，是歐洲最古老的市場之一。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00078037.JPG",
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": "中央市場The Central Market of Valencia"
+            },
+            {
+              "Sight_Name": "科學藝術城City of Arts and Sciences",
+              "Sight_Content": "<p>這座耗資近百億台幣的科學與藝術之城，號稱是歐洲跨世紀最浩大的文化建設工程，以未來為主題的建築群，包括了四個部份：藝術歌劇院、天文館、科學館，以及歐洲最大的水族館，充滿設計感的流線造型令人驚艷，為這座古都打造出耳目一新的不同面貌。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00026978.JPG",
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": "科學藝術城City of Arts and Sciences"
+            },
+            {
+              "Sight_Name": "月之堡The Castle of Pope Luna",
+              "Sight_Content": "<p>坐落在地中海海濱的碉堡上，建於13世紀末，1411年至1423年為本篤十三世(Pedro Mart&iacute;nez de Luna)終老之處，因此被稱為「月之堡」。這座城堡在過去歸屬於聖殿騎士團所有，作為防禦之用。歷經數次改建後得有今貌，古樸的牆面、鏽蝕的欄杆，以及羅馬式的建築風格，透露出從中世紀以來的歷史痕跡。</p>\r\n\r\n<p>走進內部，更是一片靜謐，展示了這座城堡相關的歷史，位於岩石之上的至高點，可俯瞰海岸美景與小鎮全貌，一望無際的碧海藍天，與沙灘上高聳的棕櫚樹，洋溢著浪漫的地中海風情。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077237.JPG",
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": "月之堡The Castle of Pope Luna"
+            }
+          ]
+        },
+        {
+          "tabTitle": "第8天",
+          "Day_No": "D8",
+          "SightContentsList": [
+            {
+              "Sight_Name": "羅馬競技場Tarragona Amphitheatre",
+              "Sight_Content": "<p>塔拉哥納最古老的羅馬遺跡，以橢圓形的競技場為中心，四周依山而建的石製席位，是俯瞰素有「地中海陽台」之稱的黃金海岸絕佳之地。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077690.JPG",
+              "Sight_imageTopText": "世界遺產",
+              "Sight_imageBottomText": "羅馬競技場Tarragona Amphitheatre"
+            },
+            {
+              "Sight_Name": "鋸齒山 Montserrat(空中纜車上山)",
+              "Sight_Content": "<p>位於巴塞隆納西北方，Montserrat是由2個字所組成的，Mont是「山」，Serrat是「鋸齒」，由此可知Montserrat是一座鋸齒狀的山脈，由它的形狀而得名。相傳西元880年時某一天，山上的一群牧童看見神光降臨、伴著天籟，驚奇之餘回家告訴父母，大人隨即上山，也看到如此奇景，這一個神蹟馬上就被傳了出去，一位主教也因此上山探個究竟，並且在一個山洞裡發現了一尊木質的聖母像，鋸齒山也因此自中世紀就成為聖山，是西班牙人們的朝聖之地。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00078035.JPG",
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": "鋸齒山 Montserrat(空中纜車上山)"
+            },
+            {
+              "Sight_Name": "夢瑟拉修道院Santa Maria de Montserrat",
+              "Sight_Content": "<p>身於鋸齒山上岩壁中的古老建築，散發著莊嚴肅穆的氣息，華麗的長方形教堂內部，精雕細琢的裝飾，令人讚嘆不已，教堂中著名聖母像也開放讓信眾觀拜，這座聖母像的臉是黑色的，被當地人稱為黑臉聖母，據推測應該是被蠟蠋煙薰的，自西元1881年起，黑臉聖母就被教宗封為西班牙加泰隆尼亞地區的守護神。</p>",
+              "Sight_imageUrl": null,
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": null
+            },
+            {
+              "Sight_Name": "巴塞隆納Barcelona",
+              "Sight_Content": "<p>走進一個築夢的歡樂天堂，相較於瑞士的寧靜與巴黎的浪漫，巴塞隆納有的是地中海式熱情的陽光與自由奔放的氣息。這個擁有1000年以上歷史的城市，是加泰隆尼亞的中心。畢卡索、米羅、高第等大師都在這裡嶄露頭角，是個名副其實的藝術之都。</p>",
+              "Sight_imageUrl": null,
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": null
+            },
+            {
+              "Sight_Name": "蘭布拉斯大道La Rambla",
+              "Sight_Content": "<p>想體驗浪漫拉丁風情的絕佳首選地，大道兩旁的建築充滿西班牙獨有的韻味，街上隨時都充滿了人潮，不論是想要逛街、購物，還是找個露天咖啡座喝杯道地西班牙咖啡小憩一番都行。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077689.JPG",
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": "蘭布拉斯大道La Rambla"
+            },
+            {
+              "Sight_Name": "聖約瑟市場Mercat Sant Josep",
+              "Sight_Content": "<p>位於蘭布拉斯大道旁的一座傳統市場，走進市場會發現，無論是菜販，還是水果商都把蔬果擺放得整整齊齊，隨處一看就像一幅色彩瑰麗的水彩畫般，沒有像其他地方的吵雜叫賣聲，只有熱鬧氣氛和遊客的嬉笑聲，逛起來非常舒服。</p>\r\n\r\n<p>&nbsp;</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077688.JPG",
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": "聖約瑟市場Mercat Sant Josep"
+            }
+          ]
+        },
+        {
+          "tabTitle": "第9天",
+          "Day_No": "D9",
+          "SightContentsList": [
+            {
+              "Sight_Name": "奎爾公園Park Güell",
+              "Sight_Content": "<p>高第獨具匠心所設計的奎爾公園。建立於一百多年前，這是高第大師名作中最容易讓人親近的，利用原本的山坡地形，搭配蘑菇、糖果屋及色彩斑斕的大蜥蜴，曲線造型的馬賽克座椅，大膽的巧思令人喜愛。</p>\r\n\r\n<ul>\r\n\t<li><span style=\"color:#FC4C02\">如遇訂位滿或休館，則改安排參觀巴特婁之家。</span></li>\r\n</ul>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058642.JPG",
+              "Sight_imageTopText": "世界遺產",
+              "Sight_imageBottomText": "奎爾公園Park Güell"
+            },
+            {
+              "Sight_Name": "聖家堂Sagrada Família",
+              "Sight_Content": "<p>位於巴塞隆納市中心，有一座距今已動工百餘年卻仍未完工的教堂，為西班牙天才建築家─高第的代表作；教堂共有三座宏偉的立面，東、西、南面各具特色，以完美而協調的手法呈現，線條簡潔俐落；門牆上的浮雕，出自雕塑家─蘇比拉什之手，一百多尊雕像全部源自《聖經》故事，從〈聖子的洗禮〉到〈最後的晚餐〉，一尊尊都精雕細刻，形同活物。如此獨特華麗，成了巴塞隆納最引以為傲的地標。</p>\r\n\r\n<p>&nbsp;</p><ul>\r\n\t<li><span style=\"color:#FC4C02\">聖家堂更新團體預訂規則，嚴格把關每日進場人數及開放購票時間。若遇當天預約已滿、無法接受預訂，則改安排參觀【米拉之家】不便之處懇請貴賓諒解。</span></li>\r\n</ul>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058641.JPG",
+              "Sight_imageTopText": "世界遺產",
+              "Sight_imageBottomText": "聖家堂Sagrada Família"
+            },
+            {
+              "Sight_Name": "巴特婁之家Casa Batlló",
+              "Sight_Content": "<p>是高第最知名的豪宅作品之一，夾帶加泰隆尼亞文化中聖喬治屠龍的故事，讓建築充滿童話色彩。從巴特婁之家的外觀就能感受到高第無與倫比的想像創造能力，外牆上用了彩色玻璃和圓形陶瓷片裝飾，而窗台像似舞會的面具的圍欄，更是巴特婁之家立面最突出的地方。2005年聯合國教科文組織，也將巴特婁之家列入世界文化遺產的名錄中。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077273.JPG",
+              "Sight_imageTopText": "世界遺產",
+              "Sight_imageBottomText": "巴特婁之家Casa Batlló"
+            },
+            {
+              "Sight_Name": "米拉之家Casa Milà",
+              "Sight_Content": "<p>高第最後設計的私人住宅，白色石切的外牆呈現波浪形，與扭曲的陽台欄杆相呼應，整座建築使用米黃作為色彩基調，呈現出巴塞隆納溫柔和煦的陽光。特別的是，屋頂上頭有許多造型奇特的煙囪與塔，宛如走進太空世界般奇幻。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077269.JPG",
+              "Sight_imageTopText": "世界遺產",
+              "Sight_imageBottomText": "米拉之家Casa Milà"
+            },
+            {
+              "Sight_Name": "英國宮百貨購物趣El Corte Inglés",
+              "Sight_Content": "<p>是西班牙連鎖百貨公司，也是歐洲最大、全球第四大的百貨公司集團，以女性消費者為主要訴求，集結世界頂級的名牌舉凡國際知名品牌LV、Dior、Prada、Loewe、Celine、GUCCI、BV、LONGCHAMP等誘發您的購買慾；各式香水、化妝品及保養品也是您不可錯過的伴手禮。</p>\r\n\r\n<ul>\r\n\t<li><span style=\"color:#FC4C02\">百貨公司內人潮眾多、財不露白，請留意扒手，務必保管好您的護照及錢包。更別忘了仔細聆聽領隊宣布的退稅注意事項，以便辦理退稅手續。</span></li>\r\n</ul>",
+              "Sight_imageUrl": null,
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": null
+            }
+          ]
+        },
+        {
+          "tabTitle": "第10天",
+          "Day_No": "D10",
+          "SightContentsList": [
+            {
+              "Sight_Name": "蒙特惠克山丘Montjuïc",
+              "Sight_Content": "<p>位於巴塞隆納西南部的山丘，過去為軍事要塞，山頂約173公尺，從觀景台可遠眺港口，俯瞰巴塞隆納城市美景，雄偉的聖家堂、形似子彈般的阿格巴塔等景點盡收眼底，一旁還有奧運公園。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077655.JPG",
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": "蒙特惠克山丘Montjuïc"
+            },
+            {
+              "Sight_Name": "1992年奧運會場Summer Olympics Stadium",
+              "Sight_Content": "<p>這裡曾是1992年夏季奧林匹克運動會會場所在地，如今是舒適宜人的運動公園，在運動場的牆上還能發現聖火台，當年奧運的火炬手是由殘奧運動員安東尼奧‧雷波洛擔任，他拉滿了弓，帶著火把的弓箭直直落入聖杯，點燃了奧運聖火，這一幕可謂經典，全場歡聲雷動，也成為歷史傳奇。</p>",
+              "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00078285.JPG",
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": "1992年奧運會場Summer Olympics Stadium"
+            },
+            {
+              "Sight_Name": "巴塞隆納／伊斯坦堡(約3小時25分鐘)",
+              "Sight_Content": "<p>浪漫拉丁風情是如此悠閒，之後向現代藝術之都巴塞隆納道聲再見，告別南歐熱情拉丁，午後前往機場搭乘客機返回甜蜜的家。</p>",
+              "Sight_imageUrl": null,
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": null
+            }
+          ]
+        },
+        {
+          "tabTitle": "第11天",
+          "Day_No": "D11",
+          "SightContentsList": [
+            {
+              "Sight_Name": "伊斯坦堡／桃園(約11小時)",
+              "Sight_Content": "<p>班機於今日晚間抵達桃園國際機場!</p>",
+              "Sight_imageUrl": null,
+              "Sight_imageTopText": null,
+              "Sight_imageBottomText": null
+            }
+          ]
+        }
+      ]
+    },
+    "Sight_TitleList": [
+      {
+        "Day_No": "第1天",
+        "Tour_Date": "2023/06/29",
+        "Sight_Content_List": [
+          {
+            "markIcon": "",
+            "Sight_Name": "桃園／伊斯坦堡 (約12小時)",
+            "CulturalHeritage_Mark": false
+          }
+        ],
+        "Hotelcontent_List": [
+          {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/restauran.png",
+            "text": "早：X\n午：X\n晚：機上簡餐"
+          },
+          {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/hotel.png",
+            "text": "夜宿機上"
+          }
+        ],
+        "Sight_Memo": {
+          "Sight_Memo_title": "景點注意事項",
+          "Sight_Memo_List": [
+            {
+              "Sight_Memo_Title": "桃園／伊斯坦堡 (約12小時)",
+              "Sight_Memo_Content": "<p>&nbsp;</p>\r\n\r\n<ul>\r\n</ul>\r\n"
+            }
+          ]
+        },
+        "Sight_imageList": []
+      },
+      {
+        "Day_No": "第2天",
+        "Tour_Date": "2023/06/30",
+        "Sight_Content_List": [
+          {
+            "markIcon": "",
+            "Sight_Name": "伊斯坦堡／馬德里(約4小時25分鐘)",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "馬德里Madrid",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-point.png",
+            "Sight_Name": "普拉多美術館Prado Museum",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-pic.png",
+            "Sight_Name": "哥倫布廣場Colón Plaza",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-pic.png",
+            "Sight_Name": "太陽門廣場Puerta del Sol",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-pic.png",
+            "Sight_Name": "西班牙皇宮Royal Palace of Madrid",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-point.png",
+            "Sight_Name": "Tapas風味餐",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "馬德里Madrid",
+            "CulturalHeritage_Mark": false
+          }
+        ],
+        "Hotelcontent_List": [
+          {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/restauran.png",
+            "text": "早：機上簡餐\n午：中式六菜一湯+水果\n晚：西班牙Tapas風味餐"
+          },
+          {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/hotel.png",
+            "text": "Axor FeriaHotel Chamartín The OneMarriott Auditorium Hotel & Conference Center \n 或 同級旅館"
+          }
+        ],
+        "Sight_Memo": {
+          "Sight_Memo_title": "景點注意事項",
+          "Sight_Memo_List": [
+            {
+              "Sight_Memo_Title": "普拉多美術館Prado Museum",
+              "Sight_Memo_Content": "<ul>\r\n\t<li><span class=\"orangefocus\">若遇普拉多美術館臨時性休館或調整開放時間，將以西班牙三大美術館之一的蘇菲亞美術館替代，蘇菲亞美術館內部大多展示近代畫作，從畢卡索、達利、米羅、到近代裝飾藝術通通都有。</span></li>\r\n</ul>\r\n"
+            }
+          ]
+        },
+        "Sight_imageList": [
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00078292.JPG",
+            "Sight_imageText": ""
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077010.JPG",
+            "Sight_imageText": "普拉多美術"
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077691.JPG",
+            "Sight_imageText": "太陽門廣場"
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00076962.JPG",
+            "Sight_imageText": "馬德里皇宮"
+          }
+        ]
+      },
+      {
+        "Day_No": "第3天",
+        "Tour_Date": "2023/07/01",
+        "Sight_Content_List": [
+          {
+            "markIcon": "",
+            "Sight_Name": "馬德里Madrid",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "93公里",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "塞哥維亞Segovia",
+            "CulturalHeritage_Mark": true
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-point.png",
+            "Sight_Name": "塞哥維亞大教堂Segovia Cathedral",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-pic.png",
+            "Sight_Name": "羅馬水道橋Aqueduct of Segovia",
+            "CulturalHeritage_Mark": true
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "百年餐廳香烤乳豬風味餐",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "160公里",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "托雷多Toledo",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-pic.png",
+            "Sight_Name": "托雷多大教堂Toledo Cathedral",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-pic.png",
+            "Sight_Name": "阿卡薩城堡Alcázar Castle",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-pic.png",
+            "Sight_Name": "托雷多觀景平台",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "托雷多Toledo",
+            "CulturalHeritage_Mark": false
+          }
+        ],
+        "Hotelcontent_List": [
+          {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/restauran.png",
+            "text": "早：飯店早餐\n午：百年餐廳香烤乳豬風味餐\n晚：太加斯河鳟魚餐"
+          },
+          {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/hotel.png",
+            "text": "四星 Alfonso VI四星 Eurostar Toledo四星 Beatriz Toledo Auditorium & Spa \n 或 同級旅館"
+          }
+        ],
+        "Sight_Memo": {
+          "Sight_Memo_title": "景點注意事項",
+          "Sight_Memo_List": []
+        },
+        "Sight_imageList": [
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00078046.JPG",
+            "Sight_imageText": "塞哥維亞"
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058686.JPG",
+            "Sight_imageText": ""
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058690.JPG",
+            "Sight_imageText": ""
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058632.JPG",
+            "Sight_imageText": ""
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077002.JPG",
+            "Sight_imageText": ""
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00078291.JPG",
+            "Sight_imageText": ""
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058632.JPG",
+            "Sight_imageText": ""
+          }
+        ]
+      },
+      {
+        "Day_No": "第4天",
+        "Tour_Date": "2023/07/02",
+        "Sight_Content_List": [
+          {
+            "markIcon": "",
+            "Sight_Name": "托雷多Toledo",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "65公里",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-pic.png",
+            "Sight_Name": "白色風車村Consuegra",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "20公里",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "唐吉軻德小酒館",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "257公里",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "哥多華Cordoba",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-point.png",
+            "Sight_Name": "清真寺Mosque–Cathedral of Córdoba",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-pic.png",
+            "Sight_Name": "哥多華舊城區Cordoba Old Town",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "哥多華Cordoba",
+            "CulturalHeritage_Mark": false
+          }
+        ],
+        "Hotelcontent_List": [
+          {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/restauran.png",
+            "text": "早：飯店早餐\n午：唐吉軻德客棧豬排餐\n晚：飯店內用晚餐"
+          },
+          {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/hotel.png",
+            "text": "四星Marcia AlfarosAyre Hotel CordobaCordoba CenterHesperia Córdoba \n 或 同級旅館"
+          }
+        ],
+        "Sight_Memo": {
+          "Sight_Memo_title": "景點注意事項",
+          "Sight_Memo_List": []
+        },
+        "Sight_imageList": [
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00059928.JPG",
+            "Sight_imageText": "風車村"
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058662.JPG",
+            "Sight_imageText": ""
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00078043.JPG",
+            "Sight_imageText": ""
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00078041.JPG",
+            "Sight_imageText": "哥多華舊市區"
+          }
+        ]
+      },
+      {
+        "Day_No": "第5天",
+        "Tour_Date": "2023/07/03",
+        "Sight_Content_List": [
+          {
+            "markIcon": "",
+            "Sight_Name": "哥多華",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "142公里",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "塞維亞Seville",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-point.png",
+            "Sight_Name": "塞維亞大教堂Seville Cathedral",
+            "CulturalHeritage_Mark": true
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-pic.png",
+            "Sight_Name": "西班牙廣場Plaza de España",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-pic.png",
+            "Sight_Name": "聖十字猶太區Santa Cruz",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-pic.png",
+            "Sight_Name": "黃金塔Golden Tower",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "248公里",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "格拉那達Granada",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-point.png",
+            "Sight_Name": "佛朗明哥舞表演(劇場內晚餐)",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "格拉那達Granada",
+            "CulturalHeritage_Mark": false
+          }
+        ],
+        "Hotelcontent_List": [
+          {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/restauran.png",
+            "text": "早：飯店早餐\n午：中式六菜一湯+水果\n晚：佛朗明哥晚餐秀"
+          },
+          {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/hotel.png",
+            "text": "AlixaresHotel Macià Real De La Alhambra \n 或 同級旅館"
+          }
+        ],
+        "Sight_Memo": {
+          "Sight_Memo_title": "景點注意事項",
+          "Sight_Memo_List": [
+            {
+              "Sight_Memo_Title": "塞維亞大教堂Seville Cathedral",
+              "Sight_Memo_Content": "<ul>\r\n\t<li><span class=\"orangefocus\">若遇當天預約已滿、宗教節日及週日彌撒日因而關門，則改安排參觀【塞維亞阿卡薩城堡】，不便之處懇請貴賓諒解。</span></li>\r\n</ul>\r\n"
+            }
+          ]
+        },
+        "Sight_imageList": [
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058628.JPG",
+            "Sight_imageText": ""
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077001.JPG",
+            "Sight_imageText": ""
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077306.JPG",
+            "Sight_imageText": ""
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077647.JPG",
+            "Sight_imageText": ""
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077170.JPG",
+            "Sight_imageText": ""
+          }
+        ]
+      },
+      {
+        "Day_No": "第6天",
+        "Tour_Date": "2023/07/04",
+        "Sight_Content_List": [
+          {
+            "markIcon": "",
+            "Sight_Name": "格拉納達Granada",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-point.png",
+            "Sight_Name": "阿罕布拉宮Alhambra",
+            "CulturalHeritage_Mark": true
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "350公里",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "阿利坎特",
+            "CulturalHeritage_Mark": false
+          }
+        ],
+        "Hotelcontent_List": [
+          {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/restauran.png",
+            "text": "早：飯店早餐\n午：中式六菜一湯+水果\n晚：地中海鮮魚餐"
+          },
+          {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/hotel.png",
+            "text": "Melia AlcanteAbba Centrum AlicanteTryp Alicante Gran SolEurostars Lucentum \n 或 同級旅館"
+          }
+        ],
+        "Sight_Memo": {
+          "Sight_Memo_title": "景點注意事項",
+          "Sight_Memo_List": [
+            {
+              "Sight_Memo_Title": "阿罕布拉宮Alhambra",
+              "Sight_Memo_Content": "<ul>\r\n\t<li><span class=\"orangefocus\">阿罕布拉宮(2020年5月1日開始的新規定)，預訂門票的同時要提供完整的旅客名單(含護照號碼)，且一但預訂完成，取消則收取100% 取消費用。</span></li>\r\n\t<li><span class=\"orangefocus\">阿罕布拉宮更新團體預訂規則，嚴格把關每日進場人數及開放購票時間。若遇當天預約已滿、無法接受預訂，則改安排參觀【格拉納達皇室禮拜堂】或【阿爾罕布拉皇宮花園】，不便之處懇請貴賓諒解。</span></li>\r\n</ul>\r\n"
+            }
+          ]
+        },
+        "Sight_imageList": [
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00078710.JPG",
+            "Sight_imageText": ""
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058672.JPG",
+            "Sight_imageText": ""
+          }
+        ]
+      },
+      {
+        "Day_No": "第7天",
+        "Tour_Date": "2023/07/05",
+        "Sight_Content_List": [
+          {
+            "markIcon": "",
+            "Sight_Name": "阿利坎特",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "166公里",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "瓦倫西亞",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-pic.png",
+            "Sight_Name": "絲綢交易中心Llotja de la Seda",
+            "CulturalHeritage_Mark": true
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-pic.png",
+            "Sight_Name": "中央市場The Central Market of Valencia",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-pic.png",
+            "Sight_Name": "科學藝術城City of Arts and Sciences",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "佩尼斯科拉",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-point.png",
+            "Sight_Name": "月之堡The Castle of Pope Luna",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "136公里",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "塔拉哥納",
+            "CulturalHeritage_Mark": false
+          }
+        ],
+        "Hotelcontent_List": [
+          {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/restauran.png",
+            "text": "早：飯店早餐\n午：西班牙海鮮飯\n晚：飯店內用晚餐"
+          },
+          {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/hotel.png",
+            "text": "四星 Tarraco Park Tarragona四星 SB Ciutat De Tarragona \n 或 同級旅館"
+          }
+        ],
+        "Sight_Memo": {
+          "Sight_Memo_title": "景點注意事項",
+          "Sight_Memo_List": []
+        },
+        "Sight_imageList": [
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00078038.JPG",
+            "Sight_imageText": "絲綢交易廳"
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00078037.JPG",
+            "Sight_imageText": "中央市場"
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00026978.JPG",
+            "Sight_imageText": ""
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077237.JPG",
+            "Sight_imageText": ""
+          }
+        ]
+      },
+      {
+        "Day_No": "第8天",
+        "Tour_Date": "2023/07/06",
+        "Sight_Content_List": [
+          {
+            "markIcon": "",
+            "Sight_Name": "塔拉哥納",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-pic.png",
+            "Sight_Name": "羅馬競技場Tarragona Amphitheatre",
+            "CulturalHeritage_Mark": true
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "108公里",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-pic.png",
+            "Sight_Name": "鋸齒山 Montserrat(空中纜車上山)",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-point.png",
+            "Sight_Name": "夢瑟拉修道院Santa Maria de Montserrat",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "60公里",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "巴塞隆納Barcelona",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-pic.png",
+            "Sight_Name": "蘭布拉斯大道La Rambla",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-pic.png",
+            "Sight_Name": "聖約瑟市場Mercat Sant Josep",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "巴塞隆納Barcelona",
+            "CulturalHeritage_Mark": false
+          }
+        ],
+        "Hotelcontent_List": [
+          {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/restauran.png",
+            "text": "早：飯店早餐\n午：香烤豬腳風味餐\n晚：敬請自理"
+          },
+          {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/hotel.png",
+            "text": "Hotel AlimaraHotel Front MaritimFira Congress hotelHotel 4 Barcelona \n 或 同級旅館"
+          }
+        ],
+        "Sight_Memo": {
+          "Sight_Memo_title": "景點注意事項",
+          "Sight_Memo_List": []
+        },
+        "Sight_imageList": [
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077690.JPG",
+            "Sight_imageText": ""
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00078035.JPG",
+            "Sight_imageText": ""
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077689.JPG",
+            "Sight_imageText": "蘭布拉斯大道"
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077688.JPG",
+            "Sight_imageText": ""
+          }
+        ]
+      },
+      {
+        "Day_No": "第9天",
+        "Tour_Date": "2023/07/07",
+        "Sight_Content_List": [
+          {
+            "markIcon": "",
+            "Sight_Name": "巴塞隆納",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-point.png",
+            "Sight_Name": "奎爾公園Park Güell",
+            "CulturalHeritage_Mark": true
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-point.png",
+            "Sight_Name": "聖家堂Sagrada Família",
+            "CulturalHeritage_Mark": true
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-pic.png",
+            "Sight_Name": "巴特婁之家Casa Batlló",
+            "CulturalHeritage_Mark": true
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-pic.png",
+            "Sight_Name": "米拉之家Casa Milà",
+            "CulturalHeritage_Mark": true
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-pic.png",
+            "Sight_Name": "英國宮百貨購物趣El Corte Inglés",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "巴塞隆納",
+            "CulturalHeritage_Mark": false
+          }
+        ],
+        "Hotelcontent_List": [
+          {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/restauran.png",
+            "text": "早：飯店早餐\n午：巴塞隆納百年餐廳(含水酒)\n晚：地中海碳烤海鮮餐(含水酒)"
+          },
+          {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/hotel.png",
+            "text": "Hotel AlimaraHotel Front MaritimFira Congress hotelHotel 4 Barcelona \n 或 同級旅館"
+          }
+        ],
+        "Sight_Memo": {
+          "Sight_Memo_title": "景點注意事項",
+          "Sight_Memo_List": [
+            {
+              "Sight_Memo_Title": "聖家堂Sagrada Família",
+              "Sight_Memo_Content": "<ul>\r\n\t<li><span class=\"orangefocus\">聖家堂更新團體預訂規則，嚴格把關每日進場人數及開放購票時間。若遇當天預約已滿、無法接受預訂，則改安排參觀【米拉之家】不便之處懇請貴賓諒解。</span></li>\r\n</ul>\r\n"
+            }
+          ]
+        },
+        "Sight_imageList": [
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058642.JPG",
+            "Sight_imageText": "奎爾公園"
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00058641.JPG",
+            "Sight_imageText": "聖家堂"
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077273.JPG",
+            "Sight_imageText": ""
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077269.JPG",
+            "Sight_imageText": ""
+          }
+        ]
+      },
+      {
+        "Day_No": "第10天",
+        "Tour_Date": "2023/07/08",
+        "Sight_Content_List": [
+          {
+            "markIcon": "",
+            "Sight_Name": "巴塞隆納",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-pic.png",
+            "Sight_Name": "蒙特惠克山丘Montjuïc",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/word-pic.png",
+            "Sight_Name": "1992年奧運會場Summer Olympics Stadium",
+            "CulturalHeritage_Mark": false
+          },
+          {
+            "markIcon": "",
+            "Sight_Name": "巴塞隆納／伊斯坦堡(約3小時25分鐘)",
+            "CulturalHeritage_Mark": false
+          }
+        ],
+        "Hotelcontent_List": [
+          {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/restauran.png",
+            "text": "早：飯店早餐\n午：發餐費10歐元自理\n晚：機上簡餐"
+          },
+          {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/hotel.png",
+            "text": "夜宿機上"
+          }
+        ],
+        "Sight_Memo": {
+          "Sight_Memo_title": "景點注意事項",
+          "Sight_Memo_List": []
+        },
+        "Sight_imageList": [
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00077655.JPG",
+            "Sight_imageText": "蒙特惠克山丘"
+          },
+          {
+            "Sight_imageUrl": "https://ntestebs.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00078285.JPG",
+            "Sight_imageText": ""
+          }
+        ]
+      },
+      {
+        "Day_No": "第11天",
+        "Tour_Date": "2023/07/09",
+        "Sight_Content_List": [
+          {
+            "markIcon": "",
+            "Sight_Name": "伊斯坦堡／桃園(約11小時)",
+            "CulturalHeritage_Mark": false
+          }
+        ],
+        "Hotelcontent_List": [
+          {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/restauran.png",
+            "text": "早：機上\n午：機上\n晚：X"
+          },
+          {
+            "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/hotel.png",
+            "text": "溫暖的家"
+          }
+        ],
+        "Sight_Memo": {
+          "Sight_Memo_title": "景點注意事項",
+          "Sight_Memo_List": []
+        },
+        "Sight_imageList": []
+      }
+    ]
+  },
+  "InfoObject": {
+    "tabTitle": "訂購須知",
+    "subTitle": "★ 為確保您有一趟美好的旅行，報名前請務必詳閱以下內容",
+    "tabList": [
+      "行前必讀",
+      "護照簽證",
+      "旅遊攻略",
+      "海關規定"
+    ],
+    "contentList": [
+      {
+        "title": "小費說明",
+        "content": "<p>給予服務人員小費是全世界通行的社會習慣之一，在國外旅行大多有付小費的習慣，是一種風度的表現。本行程<span style=\"color:#005EB8\">不包含</span>領隊、導遊、司機小費：每人每日<span style=\"color:#005EB8\">12元（歐元）</span>&times;<span style=\"color:#005EB8\">天數</span>。例如：10天團體共計120歐元，以此類推.........</p>\r\n\r\n<ol>\r\n\t<li>行李小費：每人每件<span style=\"color:#005EB8\">1~2歐元</span>。</li>\r\n\t<li>房間小費：每房<span style=\"color:#005EB8\">1~2歐元</span>。</li>\r\n</ol>"
+      },
+      {
+        "title": "行前必讀",
+        "content": "<p>給予服務人員小費是全世界通行的社會習慣之一，在國外旅行大多有付小費的習慣，是一種風度的表現。本行程<span style=\"color:#005EB8\">不包含</span>領隊、導遊、司機小費：每人每日<span style=\"color:#005EB8\">12元（歐元）</span>&times;<span style=\"color:#005EB8\">天數</span>。例如：10天團體共計120歐元，以此類推.........</p>\r\n\r\n<ol>\r\n\t<li>行李小費：每人每件<span style=\"color:#005EB8\">1~2歐元</span>。</li>\r\n\t<li>房間小費：每房<span style=\"color:#005EB8\">1~2歐元</span>。</li>\r\n</ol>"
+      },
+      {
+        "title": "護照簽證",
+        "content": "<p>給予服務人員小費是全世界通行的社會習慣之一，在國外旅行大多有付小費的習慣，是一種風度的表現。本行程<span style=\"color:#005EB8\">不包含</span>領隊、導遊、司機小費：每人每日<span style=\"color:#005EB8\">12元（歐元）</span>&times;<span style=\"color:#005EB8\">天數</span>。例如：10天團體共計120歐元，以此類推.........</p>\r\n\r\n<ol>\r\n\t<li>行李小費：每人每件<span style=\"color:#005EB8\">1~2歐元</span>。</li>\r\n\t<li>房間小費：每房<span style=\"color:#005EB8\">1~2歐元</span>。</li>\r\n</ol>"
+      },
+      {
+        "title": "旅遊攻略",
+        "content": "<p>給予服務人員小費是全世界通行的社會習慣之一，在國外旅行大多有付小費的習慣，是一種風度的表現。本行程<span style=\"color:#005EB8\">不包含</span>領隊、導遊、司機小費：每人每日<span style=\"color:#005EB8\">12元（歐元）</span>&times;<span style=\"color:#005EB8\">天數</span>。例如：10天團體共計120歐元，以此類推.........</p>\r\n\r\n<ol>\r\n\t<li>行李小費：每人每件<span style=\"color:#005EB8\">1~2歐元</span>。</li>\r\n\t<li>房間小費：每房<span style=\"color:#005EB8\">1~2歐元</span>。</li>\r\n</ol>"
+      },
+      {
+        "title": "海關規定",
+        "content": "<p>給予服務人員小費是全世界通行的社會習慣之一，在國外旅行大多有付小費的習慣，是一種風度的表現。本行程<span style=\"color:#005EB8\">不包含</span>領隊、導遊、司機小費：每人每日<span style=\"color:#005EB8\">12元（歐元）</span>&times;<span style=\"color:#005EB8\">天數</span>。例如：10天團體共計120歐元，以此類推.........</p>\r\n\r\n<ol>\r\n\t<li>行李小費：每人每件<span style=\"color:#005EB8\">1~2歐元</span>。</li>\r\n\t<li>房間小費：每房<span style=\"color:#005EB8\">1~2歐元</span>。</li>\r\n</ol>"
+      }
+    ]
+  },
+  "OptionTour": {
+    "tabTitle": "自費活動",
+    "eventTitle": "自費活動",
+    "eventList": [
+      {
+        "OptionTourList": {
+          "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/group_marker_s.png",
+          "location": "法國～巴黎",
+          "eventName": "巴黎夜遊",
+          "OptionInfo": [
+            "幣別：歐元",
+            "大人：50",
+            "小孩：50"
+          ]
+        },
+        "ActivityBrief": "\r\n<p>巴黎的夜晚，更加美麗，由巴黎專業導遊與夜間專車帶您遊覽不一樣的巴黎。路線如下：集合地點-聖日耳曼大道-雙叟、花神、利物浦啤酒館-萬神殿(先賢祠)-龐畢度(中場廁所時間)-市政廳-協和廣場-亞歷山大三世橋-夏祐宮下方照鐵塔閃燈-凱旋門-飯店。(註：路線安排或因日落時間及交通狀況而調整，夏天日照時間漫長，可能導致無法拍到夜景，敬請見諒。)</p>",
+        "infoList": [
+          {
+            "OptionTourtitle": "活動時間",
+            "OptionTourcontent": "約100分鐘"
+          },
+          {
+            "OptionTourtitle": "報名方式",
+            "OptionTourcontent": "當地報名"
+          },
+          {
+            "OptionTourtitle": "費用包含",
+            "OptionTourcontent": "夜間車資、專業導遊導覽、司機導遊小費"
+          },
+          {
+            "OptionTourtitle": "特別說明",
+            "OptionTourcontent": "本項活動須達16人以上參加。"
+          },
+          {
+            "OptionTourtitle": "營業時間",
+            "OptionTourcontent": "全年無休"
+          }
+        ]
+      },
+      {
+        "OptionTourList": {
+          "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/group_marker_s.png",
+          "location": "法國～巴黎",
+          "eventName": "法式海鮮大餐",
+          "OptionInfo": [
+            "幣別：歐元",
+            "大人：60",
+            "小孩：60"
+          ]
+        },
+        "ActivityBrief": "\r\n<p>品嚐法式經典海鮮饗宴：生冷海鮮拼盤（每位有北海鮮美甜蝦、地中海生蠔、螃蟹半隻、海螺）、鵝肝醬沙拉、焗烤法國蝸牛，主食（牛魚鴨羊任選一）、甜點、水酒飲料一份</p>",
+        "infoList": [
+          {
+            "OptionTourtitle": "活動時間",
+            "OptionTourcontent": "約60分鐘"
+          },
+          {
+            "OptionTourtitle": "報名方式",
+            "OptionTourcontent": "當地報名"
+          },
+          {
+            "OptionTourtitle": "費用包含",
+            "OptionTourcontent": "法式海鮮大餐"
+          },
+          {
+            "OptionTourtitle": "特別說明",
+            "OptionTourcontent": "因季節不同,或有少許菜單調整"
+          },
+          {
+            "OptionTourtitle": "營業時間",
+            "OptionTourcontent": "午晚餐時段(全年無休)"
+          }
+        ]
+      },
+      {
+        "OptionTourList": {
+          "icon": "https://ntestebs.colatour.com.tw/COLA_AppFiles/tour_itinerary/images/group_marker_s.png",
+          "location": "法國～巴黎",
+          "eventName": "巴黎一日遊",
+          "OptionInfo": [
+            "幣別：歐元",
+            "大人：100",
+            "小孩：100"
+          ]
+        },
+        "ActivityBrief": "\r\n<p>含一宮參觀門票及導遊費用（凡爾賽宮、楓丹白露宮或奧塞美術館，三選一，但得全體報名團員相同），及半天巴黎市內自由活動。</p>",
+        "infoList": [
+          {
+            "OptionTourtitle": "活動時間",
+            "OptionTourcontent": "一日"
+          },
+          {
+            "OptionTourtitle": "報名方式",
+            "OptionTourcontent": "當地報名"
+          },
+          {
+            "OptionTourtitle": "費用包含",
+            "OptionTourcontent": "含門票、專業導遊、全天遊覽車資（10小時）、午餐中式六菜一湯(晚餐自理)、入城費、停車費及小費。"
+          },
+          {
+            "OptionTourtitle": "特別說明",
+            "OptionTourcontent": "需得16人以上報名方能成行。"
+          },
+          {
+            "OptionTourtitle": "營業時間",
+            "OptionTourcontent": "每日(0900-1900)"
+          }
+        ]
+      }
+    ]
+  },
+  "Account_Type": "國外旅遊",
+  "TraceNo": null,
+  "TraceMark": false,
+  "Share": {
+    "content": "分享行程",
+    "url": "https://www.colatour.com.tw/C10A_TourSell/C10A13_TourItinerary.aspx?TourCode=ESD062911TK3&TourDate=2023/06/29"
+  },
+  "BottonText": null
+}
